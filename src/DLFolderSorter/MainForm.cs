@@ -67,6 +67,14 @@ public sealed class MainForm : Form
         Width = 1180;
         Height = 800;
         StartPosition = FormStartPosition.CenterScreen;
+        try
+        {
+            Icon = Icon.ExtractAssociatedIcon(Application.ExecutablePath);
+        }
+        catch (Exception)
+        {
+            // アイコンが取れなくても起動は続ける
+        }
         BuildLayout();
         BuildGridColumns();
         LoadConfigToUi();
