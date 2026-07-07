@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DLFolderSorter.Core/DLFolderSorter.Core.csproj" />
+    <Project Path="src/DLFolderSorter/DLFolderSorter.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DLFolderSorter.Core.Tests/DLFolderSorter.Core.Tests.csproj" />
+  </Folder>
+</Solution>
