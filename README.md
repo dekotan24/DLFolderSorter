@@ -1,10 +1,10 @@
-# DLFolderSorter
+# <img width="32" height="32" alt="icon2" src="https://github.com/user-attachments/assets/612075c6-4fa8-4b83-b44c-74bff5a930ce" /> DLFolderSorter
 
 DLsite / FANZA の同人作品アーカイブ（zip / rar / フォルダ / 動画ファイル）を、作品種別ごとのフォルダへ自動仕分けする Windows アプリです。
 
 ファイル名・フォルダ名から作品ID（RJ番号・FANZA cid・AV品番）を抽出し、公式サイトの情報から「ゲーム / 音声 / 動画 / CG・マンガ / AV」を判定して、指定フォルダへ安全に移動・リネームします。
 
-![仕分け先設定](docs/images/destinations.png)
+<img width="1166" height="793" alt="2026-07-07_18h33_52" src="https://github.com/user-attachments/assets/81762d9f-7606-46c5-bf13-cd2dc289cddb" />
 
 ## 主な機能
 
